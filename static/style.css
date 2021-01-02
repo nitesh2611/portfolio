@@ -1,0 +1,26 @@
+body {
+    background-color: red;
+}
+
+
+ .div1{
+        border : 10px outset blue;
+        background-color : purple;
+        display : block;
+        text-align: center;
+        }
+
+.div2
+{
+        border : 50px outset cyan;
+        background-color : red;
+        display : block;
+        text-align: right;
+        }
+
+ p.round3 
+ {
+  border: 2px solid white;
+  border-radius: 12px;
+
+}
